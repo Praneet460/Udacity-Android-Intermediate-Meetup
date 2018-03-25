@@ -5,17 +5,23 @@ This repository consists code written for Udacity Challenge India Scholarship(In
 
 Download the Youtube Android Player API from [here](https://developers.google.com/youtube/android/player/downloads/)
 
+Read Full Tutorial to bild your own App using Youtube API [Click here](http://www.paperwrk.in/2016/12/YoutubeApi.html)
 
 <h2>Get To Know Us </h2>
 
 <b>Praneet Nigam</b><br />
 LinkedIn: https://www.linkedin.com/in/praneet-nigam-8b33b8121/  <br />
 Github: https://github.com/Praneet460 <br/>
+Twitter: https://twitter.com/praneetnigam <br />
+StackOverflow: https://stackoverflow.com/users/8508289/mr-stark <br />
 Email: praneetnigam@paperwrk.in / nigampraneet460@gmail.com <br />
+
 
 <b>Kartik Shandilya</b> <br/>
 LinkedIn: https://www.linkedin.com/in/kartik-shandilya-50056312b/  <br />
 Github: https://github.com/kkdroidgit <br/>
+Twitter: https://twitter.com/kartik_17sh <br />
+StackOverflow: https://stackoverflow.com/users/7337723/novo-lucas?tab=profile <br />
 Email: kartikshandilya@paperwrk.in / kartikdroid17@gmail.com <br />
 
 <h2>Our Live Projects</h2>
